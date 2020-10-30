@@ -267,6 +267,12 @@ fieldset[disabled] .btn-theme {
   border-width: 0;
 }
 
+.btn-black-bg{
+  color:#fff;
+  background:  rgb(14, 13, 13);
+  border-color: transparent;
+  border-width: 0;
+}
 .btn-white-bg:hover, .btn-white-bg:focus, .btn-white-bg.focus {
   color: #fff;
   background: #17bed2;
